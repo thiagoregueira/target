@@ -1,0 +1,11 @@
+- Primeiro, ligo interruptor 1 e deixe-o ligado por alguns minutos.
+- Em seguida, desligo o interruptor 1 e ligo o interruptor 2.
+- Vou até a sala das lâmpadas.
+
+Na sala das lâmpadas, vejo que uma das lâmpadas está acesa e as outras duas estão apagadas. 
+Então faço as seguintes constatações:
+
+1. A lâmpada que está acesa é controlada pelo interruptor 2, porque deixei esse interruptor ligado.
+2. Das duas lâmpadas que estão apagadas, uma estará quente. 
+   Essa é a lâmpada controlada pelo interruptor 1, porque deixei esse interruptor ligado por alguns minutos antes de desligá-lo.
+3. A lâmpada que está apagada e fria é controlada pelo interruptor 3, porque nunca liguei esse interruptor.
